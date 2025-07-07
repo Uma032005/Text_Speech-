@@ -1,0 +1,8 @@
+# Removal of documentation guideline
+*.pdf
+*.docx
+*.txt
+/Citing docs
+/web-app
+/__1 DEFENSE VERSION
+.env
